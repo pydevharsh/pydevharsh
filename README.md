@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Harsh
 
-<!--
-**pydevharsh/pydevharsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Developer  
+🎓 Diploma Computer Engineering Student
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical projects using Python and Web Technologies.
+
+Currently focusing on:
+- Python Development
+- Automation Scripts
+- Data Analysis
+- Backend Development
+
+## Projects
+
+🔹 Student Record Management System (Python CLI)
+
+🔹 Portfolio Website with Admin Panel  
+https://pydevharsh.netlify.app
+
+## Skills
+
+Python • HTML • CSS • JavaScript  
+NumPy • Pandas • Matplotlib  
+MySQL • Firebase  
+
+## Connect With Me
+
+Portfolio:
+https://pydevharsh.netlify.app
