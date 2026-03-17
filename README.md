@@ -18,13 +18,21 @@ Currently focusing on:
 🔹 Student Record Management System (Python CLI)
 
 🔹 Portfolio Website with Admin Panel  
-https://pydevharsh.netlify.app
+   https://pydevharsh.netlify.app
 
 ## Skills
 
-Python • HTML • CSS • JavaScript  
-NumPy • Pandas • Matplotlib  
-MySQL • Firebase  
+Programming:
+Python, JavaScript
+
+Web Development:
+HTML, CSS
+
+Libraries:
+NumPy, Pandas, Matplotlib
+
+Database:
+MySQL, Firebase  
 
 ## Connect With Me
 
